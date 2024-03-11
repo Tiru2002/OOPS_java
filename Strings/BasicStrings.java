@@ -8,6 +8,9 @@ public class BasicStrings {
         System.out.println("The given characters are : "+str);
 
         System.out.println("length of string is "+str.length() );
+
+        // \r carriage return
+        System.out.println("hello \rworld "); 
         
        
     }
