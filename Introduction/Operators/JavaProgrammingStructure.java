@@ -7,7 +7,7 @@
  *  
  */
 
-package Introduction;//Package statement
+package Introduction.Operators;//Package statement
 
 import java.util.* ; //Importing statement
 
