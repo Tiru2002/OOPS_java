@@ -1,6 +1,7 @@
 package Strings;
 
 public class BasicStrings {
+
     public static void main(String[] args) {
         char ch[]={'H','e','l','l','o'};
         String str=new String(ch); //Converting character array to string .
@@ -8,6 +9,6 @@ public class BasicStrings {
 
         System.out.println("length of string is "+str.length() );
         
-    
+       
     }
 }
